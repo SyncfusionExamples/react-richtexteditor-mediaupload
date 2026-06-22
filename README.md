@@ -49,3 +49,5 @@ dotnet run
 - [Media Services Integration](https://ej2.syncfusion.com/react/documentation/rich-text-editor/integrations/media-services)
 - [Getting Started Guide](https://ej2.syncfusion.com/react/documentation/rich-text-editor/getting-started)
 - [Rich Text Editor Demo](https://ej2.syncfusion.com/react/demos/#/tailwind3/rich-text-editor/tools)
+
+>Looking for the full React Rich Text Editor component overview, features, pricing, and documentation? Visit the [React Rich Text Editor](https://www.syncfusion.com/react-components/react-rich-text-editor) page.
